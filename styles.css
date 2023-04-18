@@ -1,2 +1,17 @@
 
 /* Your CSS Code here. */
+.main{
+	width:200px;
+	background-color:purple;
+	padding:10px;
+    border-left-width:5px;
+	border-left-color:green;
+	border-left-style:solid;
+}
+#heading{
+	font-size:20px;
+	color:white;
+	text-decoration:underline;
+	
+}
+/* Your CSS Code here. */
